@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+textblob
+scikit-learn
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+python-dotenv
